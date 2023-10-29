@@ -1,0 +1,10 @@
+streamlit
+openai
+wordcloud
+python-dotenv
+spacy
+streamlit-chat
+bardapi 
+torch
+diffusers
+transformers
