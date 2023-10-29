@@ -196,7 +196,7 @@ class VabAI:
     def __init__(self):
         os.environ[
             "_BARD_API_KEY"
-        ] = "cAgxgwvTjpqcu7XtYv38_KSlBcwl25BSYS9ruz49Kw6C_N6dXXxEF-SohHhfASNcWqJFjQ."
+        ] = "Enter your bard api key here"
         self.bard = Bard()
         self.generate = []
         self.past = []
