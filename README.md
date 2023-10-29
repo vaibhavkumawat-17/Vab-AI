@@ -85,6 +85,7 @@ Streamlit is seamlessly integrated into the project, enhancing its capabilities 
 ```sh
 └── Vab-AI/
     ├── .gitattributes
+    ├── HomePage.png
     ├── LICENSE
     ├── README.md
     ├── app.py
