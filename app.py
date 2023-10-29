@@ -192,7 +192,7 @@ class GPT3Analyzer(TextAnalyzer):
         return response["choices"][0]["text"]
 
 
-class VabAI:
+class AMA_AI:
     def __init__(self):
         os.environ[
             "_BARD_API_KEY"
@@ -319,7 +319,7 @@ elif selection == "AMA AI":
      st.markdown(
          "🤖 AMA AI 🤯 : Meet your new virtual buddy, AMA AI (Ask me aything AI), who's got your back with smart responses to your questions! 🙋‍♂️"
      )
-    vab_ai = VabAI()
+    vab_ai = AMA_AI()
     vab_ai.run()
 
 elif selection == "Image Generation":
