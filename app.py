@@ -17,7 +17,7 @@ from diffusers import StableDiffusionPipeline
 load_dotenv()
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "Your-OpenAI-API_key"
 
 HTML_WRAPPER = """<div style="overflow-x: auto; border: 1px solid #e6e9ef; border-radius: 0.25rem; padding: 1rem">{}</div>"""
 
